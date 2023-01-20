@@ -1,0 +1,15 @@
+{
+  "domain": "kvv",
+  "name": "kvv",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/kvv",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@liskior"
+  ],
+  "iot_class": "cloud_polling"
+}
