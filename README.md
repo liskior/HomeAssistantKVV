@@ -17,4 +17,4 @@ sensor:
 
 5. Add www directory
 
-6. Add resource kvv-card.js 
+6. Add resource /local/kvv-card.js 
