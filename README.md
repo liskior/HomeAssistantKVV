@@ -10,8 +10,16 @@
 sensor:
   - platform: kvv
     info:
-      - stop_name: "Büchiger Allee"
-        direction_name: "Durlacher Tor/KIT"
+      - name_origin: "Karlsruhe, Hauptfriedhof"
+        nameInfo_origin: '7000402'
+        name_destination: "Karlsruhe Karl-Wilhelm-Platz"
+        nameInfo_destination: '7000401'
+  - platform: kvv
+    info:
+      - name_origin: "Karlsruhe, Hauptfriedhof"
+        nameInfo_origin: '7000402'
+        name_destination: "Karlsruhe Essenweinstraße"
+        nameInfo_destination: '7000626'
 ```
 4. Reload
 
