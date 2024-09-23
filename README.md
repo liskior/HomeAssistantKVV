@@ -3,9 +3,8 @@
 
 1. Add kvv to custom components directory
 
-2. Reload
 
-3. Add to configuration.yaml:
+2. Add to configuration.yaml:
 ```
 sensor:
   - platform: kvv
@@ -21,8 +20,7 @@ sensor:
         name_destination: "Karlsruhe Essenweinstraße"
         nameInfo_destination: '7000626'
 ```
-4. Reload
 
-5. Add www directory
+3. Add www directory
 
-6. Add resource /local/kvv-card.js 
+4. Add resource /local/kvv-card.js 
